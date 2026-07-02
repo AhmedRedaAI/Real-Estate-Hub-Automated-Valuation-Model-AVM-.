@@ -20,3 +20,7 @@ A data-driven real estate web application that combines market inventory mapping
 1. Clone the repository:
    ```bash
    git clone [https://github.com/your-username/real-estate-avm.git](https://github.com/your-username/real-estate-avm.git)
+
+
+<img width="1890" height="900" alt="image" src="https://github.com/user-attachments/assets/8c93620f-d2a4-4f17-8855-d2a54aaeeb7a" />
+<img width="831" height="577" alt="image" src="https://github.com/user-attachments/assets/4a3cabf6-21d0-4bc5-9ea9-c4f7b5e0c180" />
